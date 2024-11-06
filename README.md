@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently focusing on Data Structures and Algorithms in Java while also diving into Full Stack App Development. In the frontend, I am mastering React Native, and for the backend, I am delving into Node.js and Express. I am actively seeking an internship in the field of Software Development, where I can apply and further enhance my skills.
+I am currently focusing on Data Structures and Algorithms in Java while also diving into Full Stack App Development. In the frontend, I am mastering React Native,React js and for the backend, I am delving into Node.js and Express. I am actively seeking an internship in the field of Software Development, where I can apply and further enhance my skills.
 
 
 ## 🌐 Socials:
